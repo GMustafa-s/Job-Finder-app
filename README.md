@@ -1,16 +1,15 @@
-# 🔥🔥 Flutter Social App Concept [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+# 🔥🔥 Flutter Job Finder App UI Concept Project   [![Twitter Follow](https://img.shields.io/twitter/follow/Mustafa_Saivra.svg?style=social)](https://twitter.com/msutafa_saivra)
 Flutter representation of a Social App Concept i found on Uplabs.
 
 Star⭐ the repo if you like what you see😉.
 
 
-Images are from [Unsplash](https://unsplash.com)
 
 <a href="ss/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
-[Link to Mockup](https://www.ls.graphics/free/simple-iphone-x-mockups)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/mustafa_saivra.svg?style=social)](https://twitter.com/mustafa_saivra)
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -38,7 +37,7 @@ Images are from [Unsplash](https://unsplash.com)
 Adapts to device theme
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+**Ghulam Mustafa** [![Twitter Follow](https://img.shields.io/twitter/follow/mustafa_saivra.svg?style=social)](https://twitter.com/mustafa_saivra)
 
 ## 🔖 LICENCE
 [WTFPL](http://www.wtfpl.net/about/)
